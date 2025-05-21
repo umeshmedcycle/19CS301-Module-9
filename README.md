@@ -154,7 +154,7 @@ print(T)
 
 The program correctly reads two matrices from input, subtracts them using list comprehension, and prints the result as required.
 
-EXP.No: 9.4     ENCAPSULATION
+EXP.No: 9.4     Sorting
 
 
 ### AIM:
@@ -207,7 +207,7 @@ class Numbers:
 The class-based program successfully performs selection sort on a list created by user input and displays the list before and after sorting.
 
 
-EXP.No: 9.5     ENCAPSULATION
+EXP.No: 9.5     ASSESSMENT EXAM
 
 
 ### AIM:
